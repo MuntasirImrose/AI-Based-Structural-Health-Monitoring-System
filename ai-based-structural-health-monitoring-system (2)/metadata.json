@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Structural Health Monitoring System",
+  "description": "AI-powered visual inspection and IoT monitoring system for detecting and analyzing structural cracks, surface deterioration, and bridge/building integrity.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
